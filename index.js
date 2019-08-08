@@ -12,9 +12,9 @@
 
 // Exercise 1
 
-// for (var i=-3; i<9;i++) {
-//     console.log(i)
-// }
+for (var i=-3; i<9;i++) {
+    console.log(i)
+}
 
 //Exercise 2
 for (var x= 0; x<51;x++) {
@@ -36,3 +36,4 @@ for (var y= j; y<j2; y++){
 
     console.log(y)
 }
+// NOTE : you are counting up to but not including the second number
